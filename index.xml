@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 May 2025 13:28:02 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/posts/about/</link>
+      <pubDate>Wed, 14 May 2025 13:28:02 +0800</pubDate>
+      <guid>https://example.org/posts/about/</guid>
+      <description>&lt;h1 id=&#34;whats-this-website-about&#34;&gt;What&amp;rsquo;s this website about?&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;braindump my knowledge&lt;/li&gt;&#xA;&lt;li&gt;personal reflection&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
